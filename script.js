@@ -42,9 +42,17 @@ function populateRecommendationCards(filteredPlaces) {
   const recommendations = document.getElementById('recommendations');
 
   // Step 2: Clear the "recommendations" innerHTML
+  recommendations.innerHTML = '';
+
   // Step 3: Loop through the filteredPlaces array
+  for (let i = 0; i < filteredPlaces.length; i++) {
+  
   // Step 4: Create a card for each place using the createCard function
+    const card = createCard(filteredPlaces[i]);
+
   // Step 5: Add/append each card to the recommendations DOM element
+    recommendations.appendChild(card);
+    }
 }
 
 // Task 4
