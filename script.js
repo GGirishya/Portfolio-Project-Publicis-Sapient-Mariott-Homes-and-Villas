@@ -2,6 +2,7 @@
 // Filter PLACES by type. If the type property of an object in PLACES matches the typePreference parameter.
 function filterPlacesByType(typePreference) {
   // Step 1: Create a new filteredPlaces array and store it in a variable
+  let filterPlaces = [];
   // Step 2: Loop through PLACES
   // Step 3: If a place object's type property matches the typePreference parameter, add it to filteredPlaces
   // Step 4: After the loop, return filteredPlaces
