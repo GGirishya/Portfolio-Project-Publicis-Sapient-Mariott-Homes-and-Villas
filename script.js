@@ -33,6 +33,7 @@ function createCard(place) {
     </div>
   `;
   // Step 4: Return the element
+  return div;
 }
 
 // Task 3
