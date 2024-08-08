@@ -20,9 +20,18 @@ function createCard(place) {
   // Step 1: Create a new div element and store it in a variable
   const div = document.createElement("div");
   // Step 2: Add the 'col' class to the new div
-
+  
   div.classList.add("col");
   // Step 3: Set the innerHTML of the div with a template string. It should resemble the structure shown in the readme. Interpolate the values for place.name, place.img, and place.location where needed. More info - https://wesbos.com/template-strings-html
+  div.innerHTML = `
+    <div class="card h-100" onclick="centerPlaceOnMap('${place.name}')">
+      <img src="${place.img}" class="card-img-top h-100" alt="${place.name}">
+      <div class="card-body">
+        <h5 class="card-title">${place.name}</h5>
+        <p class="card-text">${place.location}</p>
+      </div>
+    </div>
+  `;
   // Step 4: Return the element
 }
 
