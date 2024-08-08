@@ -18,6 +18,7 @@ function filterPlacesByType(typePreference) {
 // Task 2
 function createCard(place) {
   // Step 1: Create a new div element and store it in a variable
+  const div = document.createElement("div");
   // Step 2: Add the col class to the new div element
   // Step 3: Set the innerHTML of the div with a template string. It should resemble the structure shown in the readme. Interpolate the values for place.name, place.img, and place.location where needed. More info - https://wesbos.com/template-strings-html
   // Step 4: Return the element
