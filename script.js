@@ -58,5 +58,6 @@ function populateRecommendationCards(filteredPlaces) {
 // Task 4
 function findPlaceByName(placeName) {
   // Step 1: Loop through the PLACES array
+  
   // Step 2: If a place object's name property matches the placeName parameter, return that place object
 }
