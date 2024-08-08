@@ -60,4 +60,8 @@ function findPlaceByName(placeName) {
   // Step 1: Loop through the PLACES array
   for (let i = 0; i < PLACES.length; i++) {
   // Step 2: If a place object's name property matches the placeName parameter, return that place object
-}
+    if (PLACES[i].name === placeName) {
+      return PLACES[i];
+    }
+  }
+  // in case 
