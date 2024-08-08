@@ -39,6 +39,8 @@ function createCard(place) {
 // Task 3
 function populateRecommendationCards(filteredPlaces) {
   // Step 1: Store the DOM element with the id of "recommendations" in a variable
+  const recommendations = document.getElementById('recommendations');
+
   // Step 2: Clear the "recommendations" innerHTML
   // Step 3: Loop through the filteredPlaces array
   // Step 4: Create a card for each place using the createCard function
