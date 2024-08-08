@@ -10,6 +10,9 @@ function filterPlacesByType(typePreference) {
       filteredPlaces.push(PLACES[i]);
     }
   }
+   // Step 4: After the loop, return filteredPlaces
+    return filteredPlaces;
+  }
  
 
 // Task 2
