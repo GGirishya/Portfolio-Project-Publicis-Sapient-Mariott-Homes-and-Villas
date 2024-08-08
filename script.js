@@ -2,12 +2,15 @@
 // Filter PLACES by type. If the type property of an object in PLACES matches the typePreference parameter.
 function filterPlacesByType(typePreference) {
   // Step 1: Create a new filteredPlaces array and store it in a variable
-  let filterPlaces = [];
+  let filteredPlaces = [];
   // Step 2: Loop through PLACES
-  for(let i=0; i<PLACES.length; i++)
+  for(let i=0; i<PLACES.length; i++){
   // Step 3: If a place object's type property matches the typePreference parameter, add it to filteredPlaces
-  // Step 4: After the loop, return filteredPlaces
-}
+    if (PLACES[i].type === typePreference){
+      filteredPlaces.push(PLACES[i]);
+    }
+  }
+ 
 
 // Task 2
 function createCard(place) {
