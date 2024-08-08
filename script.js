@@ -64,4 +64,6 @@ function findPlaceByName(placeName) {
       return PLACES[i];
     }
   }
-  // in case 
+  // in case no match was found return undefined
+  return undefined;
+}
