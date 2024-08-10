@@ -5,8 +5,9 @@
 Airbnb: https://www.airbnb.com/
 Wimdu: https://www.wimdu.com/
 Fairbnb: https://fairbnb.coop/
-Vrbo: https://www.vrbo.com/
-bluepillow: 
+VRBO: https://www.vrbo.com/
+bluepillow: https://www.bluepillow.com/
+booking: https://www.booking.com/
 
 
 *Briefly explain why these websites are a relevant comparison* 
