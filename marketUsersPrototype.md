@@ -45,6 +45,8 @@ These websites are relevant for comparison because they each provide whole-home 
 *Write a short paragraph (50-100 words) describing the themes that emerged from the user research*
 
 
+The user research suggests that there is a high connection between the qualitative insights and quantitative survey data. The majority of respondents are still undecided about their exact destination, similar to the qualitative feedback where the users struggle with website navigation and information retrieval. There is a common pain point: users find the current interface cumbersome and not sufficiently inspiring. Consequently, users are seeking a more straightforward, engaging experience that aids in both destination selection and overall travel planning, ultimately facilitating a more enjoyable and efficient journey from ideation to booking.
+
 
 
 ## Define and Prototype
