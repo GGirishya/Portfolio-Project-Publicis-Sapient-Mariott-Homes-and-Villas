@@ -3,6 +3,11 @@
 ## Understand Your Market
 *Provide links to the 3 websites you explored* 
 Airbnb: https://www.airbnb.com/
+Wimdu: https://www.wimdu.com/
+Fairbnb: https://fairbnb.coop/
+Vrbo: https://www.vrbo.com/
+bluepillow: 
+
 
 *Briefly explain why these websites are a relevant comparison* 
 
@@ -20,7 +25,7 @@ Airbnb: https://www.airbnb.com/
 
 6.BluePillow: Users receive an initial pop-up to enable notifications for updates on the latest deals.
 
-7.BluePillow: Users have quick access to customer support through direct email and phone contact.
+7.BluePillow: Users have the ability to create, save and share theor favourite accomodation lists.
 
 8.VRBO: Users can easily download the mobile app for enhanced features and convenience.
 
