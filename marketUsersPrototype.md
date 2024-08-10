@@ -12,6 +12,8 @@ booking: https://www.booking.com/
 
 *Briefly explain why these websites are a relevant comparison* 
 
+These websites are relevant for comparison because they each provide whole-home rentals and address common user needs in the hospitality industry. Airbnb, VRBO, Wimdu, BluePillow, Booking.com, and Fairbnb offer unique features such as multilingual support, notifications, app integration, and map-based searches, showcasing a range of functionalities and user experiences in the vacation rental market.
+
 *List at least 10 product features*
 
 1.Airbnb: Users can input the number of guests traveling with them to find suitable accommodations.
