@@ -52,6 +52,10 @@ The user research suggests that there is a high connection between the qualitati
 ## Define and Prototype
 <!-- *Paste a link to your prototype here*  -->
 https://docs.google.com/presentation/d/1cDMQ95hPRRHOvNhrovpk2KSrke321W46BxH1GYEfuOo/edit?usp=sharing
+
+Note: I attempted to add a learn more option(level up) when hovering or clicking on the destination card on the map. On the picture taken by clients have their icon on the bottom right corner to ensure verification as well.
+
+
 > **🗒️ NOTE:** Make sure you share your prototype file so that "anyone with the link" can view it. If we're unable to access your file, we'll be unable to give you credit. 
 
 *Don't forget to include a comment if you attempted any of the LevelUps, so that your grader knows to review your work and award the extra credit!* 
